@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-text-file-util"
+description = "Text file utility for ComfyUI"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/kale4eat/ComfyUI-text-file-util"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-text-file-util"
+Icon = ""
